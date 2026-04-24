@@ -14,7 +14,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
@@ -92,3 +92,4 @@
     "vitest": "^3.2.4"
   }
 }
+
